@@ -32,7 +32,7 @@ Ce script automatise les meilleures pratiques d'administration système :
 
 1. Clonez le dépôt :
 ```bash
-git clone [https://github.com/votre-compte/optinux.git](https://github.com/simple-group/optinux.git)
+git clone https://github.com/simple-group/optinux.git
 cd optinux
 
 ```
@@ -78,7 +78,7 @@ This script automates advanced system administration best practices:
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/votre-compte/optinux.git](https://github.com/simple-group/optinux.git)
+git clone https://github.com/simple-group/optinux.git
 cd optinux
 
 ```
