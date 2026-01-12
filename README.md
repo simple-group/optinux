@@ -1,8 +1,6 @@
 # optinux
 Optinux est un script Bash d'optimisation avancée conçu spécifiquement pour les serveurs basés sur Debian. Optinux is an advanced optimisation Bash script designed specifically for Debian-based servers.
 
-Voici une proposition de documentation `README.md` pour ton dépôt GitHub, structurée de manière professionnelle pour mettre en valeur les fonctionnalités et la sécurité du script.
-
 ---
 
 # 🐧 Optinux - Debian System Optimizer (Masterclass Edition)
